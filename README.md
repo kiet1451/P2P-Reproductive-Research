@@ -4,10 +4,7 @@ author: "Kiet Huynh"
 date: "1/16/2021"
 output:
   blogdown::html_page:
-    toc: true
-    fig_width: 6
-    dev: "svg"
----
+    
 ##Course Project: 
 
 #The goal of the assignment is to analyse the fatallities and injuries from the NOAA Storm Database from 1950 to 2011. There were less comprehensive recorded events in the earlier years; however, the most recent records have been more completed.
@@ -108,3 +105,4 @@ grid.arrange(g1,h1, ncol=1,nrow=2)
 ```
 
 ##Based on the data, the flood disaster is the worst property damage while the drought disaster impacts the crop yield havest between 1950 to 2011
+---
