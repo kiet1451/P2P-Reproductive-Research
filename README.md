@@ -2,7 +2,7 @@
 title: "P2P Reproductive Research - Assignment 2"
 author: "Kiet Huynh"
 date: "1/16/2021"
-output: html_document
+output: rmarkdown::github_document
 ---
 ##Course Project: 
 
